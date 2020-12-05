@@ -1,0 +1,19 @@
+# Model Building Requirements
+numpy
+pandas
+stockstats
+scikit-learn
+gym
+stable-baselines3[extra]
+torch   # turned into torch instead of using the old version of tensorflow
+joblib
+# plot
+matplotlib==3.2.1
+# testing requirements
+pytest
+# packaging
+setuptools
+wheel
+
+
+
