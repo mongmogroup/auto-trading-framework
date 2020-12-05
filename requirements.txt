@@ -8,7 +8,7 @@ stable-baselines3[extra]
 torch   # turned into torch instead of using the old version of tensorflow
 joblib
 # plot
-matplotlib==3.2.1
+matplotlib
 # testing requirements
 pytest
 # packaging
