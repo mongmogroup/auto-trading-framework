@@ -10,13 +10,12 @@ This repository refers to the codes for ICAIF 2020 paper [1]. This project inher
 ### Prerequisites
 1. For [OpenAI Baselines new version](https://stable-baselines3.readthedocs.io/en/master/), you'll need system packages CMake, OpenMPI and zlib. Those can be installed as follows
 
-#### Ubuntu
-
+* Ubuntu
 ```bash
 sudo apt-get update && sudo apt-get install cmake libopenmpi-dev python3-dev zlib1g-dev
 ```
 
-#### Mac OS X
+* Mac OS X
 Installation of system packages on Mac requires [Homebrew](https://brew.sh). With Homebrew installed, run the following:
 ```bash
 brew install cmake openmpi
