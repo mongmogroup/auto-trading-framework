@@ -23,11 +23,11 @@ brew install cmake openmpi
 ```
 
     
-2. Regarding Python stuffs, there could be 2 ways for setting up the training environment:
-* Create and Activate Virtual Environment (Optional but highly recommended)
+2. Regarding Python stuffs, there could be some ways for setting up the training environment:
+2.1. Create and Activate Virtual Environment (Optional but highly recommended)
     * cd into this repository
     ```bash
-    cd Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020
+    cd auto-trading-framework
     ```
     * Under folder /auto-trading-framework, create a virtual environment
     ```bash
@@ -43,6 +43,7 @@ brew install cmake openmpi
     ```
     source venv/bin/activate
     ```
+2.2. Using anaconda3
 
 ## Dependencies
 
