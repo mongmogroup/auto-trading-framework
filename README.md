@@ -34,7 +34,7 @@ brew install cmake openmpi
         pip install virtualenv
         ```
         
-        - Create a virtualenv **venv** under folder /Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020
+        - Create a virtualenv **venv** under folder /auto-trading-framework
         ```bash
         virtualenv -p python3 venv
         ```
